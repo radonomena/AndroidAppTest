@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mon Journal</string>
+    <string name="title_journal">Fampidirana Vola</string>
+    <string name="radio_lbl_sortie">Vola mivoaka</string>
+    <string name="radio_lbl_entree">Vola miditra</string>
+    <string name="add_btn_txt">Ajouter</string>
+    <string name="lbl_montant">Montant</string>
+</resources>
